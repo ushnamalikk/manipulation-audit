@@ -1,0 +1,12 @@
+inspect-ai>=0.3
+pandas
+numpy
+pyyaml
+pingouin
+krippendorff
+statsmodels
+scikit-learn
+matplotlib
+google-genai
+groq
+openai
