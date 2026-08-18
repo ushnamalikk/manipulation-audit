@@ -1,6 +1,6 @@
 # Persona-Conditional Manipulation Audit
 
-**Do large language models deploy manipulative "dark patterns" *unequally*, more toward
+**Do large language models deploy manipulative "dark patterns" *unequally* - more toward
 users they infer to be vulnerable? And are those effects real, or an artifact of the judge?**
 
 A reproducible, reliability-quantified audit. It holds a manipulation-eliciting scenario
